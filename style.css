@@ -1,0 +1,37 @@
+body {
+    font-size: 15pt;
+    color: #fff;
+}
+.container {
+  background-color: #00acee;
+  padding: 12px 5px;
+  border-radius: 10px;
+  position: center;
+}
+.profile {
+  text-align: center;
+}
+.nama img {
+  border-radius: 300px;
+  width: 33%;
+}
+.list .fa {
+  padding-left: 10px;
+}
+.medsos {
+  text-align: center;
+}
+.medsos .fa {
+  padding: 5px 15px;
+  text-decoration: none;
+  color : #fff;
+}
+.list ul li{
+list-style: none;
+}
+footer {
+  text-align: center;
+}
+footer img {
+  width: 25%;
+}
